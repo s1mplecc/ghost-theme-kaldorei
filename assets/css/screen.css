@@ -1093,16 +1093,16 @@ body.nav-opened .site-wrapper {
     -o-transition: .8s;
     -ms-transition: .8s;
 }
-.author-image .img:hover {
-    transform: rotate(720deg);
-    -webkit-transform: rotate(720deg);
-    -moz-transform: rotate(720deg);
-    -o-transform: rotate(720deg);
-    -ms-transform: rotate(720deg);
-    border-radius: 35px !important;
-    filter: alpha(opacity=100) !important;
-    opacity: 1 !important;
-}
+/*.author-image .img:hover {*/
+    /*transform: rotate(720deg);*/
+    /*-webkit-transform: rotate(720deg);*/
+    /*-moz-transform: rotate(720deg);*/
+    /*-o-transform: rotate(720deg);*/
+    /*-ms-transform: rotate(720deg);*/
+    /*border-radius: 35px !important;*/
+    /*filter: alpha(opacity=100) !important;*/
+    /*opacity: 1 !important;*/
+/*}*/
 .author-profile .author-image {
     position: relative;
     left: auto;
@@ -1582,15 +1582,15 @@ body.nav-opened .site-wrapper {
     -o-transition: .8s;
     -ms-transition: .8s;
 }
-.widget-profile-header > a > img:hover {
-    transform: rotate(720deg);
-    -webkit-transform: rotate(720deg);
-    -moz-transform: rotate(720deg);
-    -o-transform: rotate(720deg);
-    -ms-transform: rotate(720deg);
-    filter: alpha(opacity=100) !important;
-    opacity: 1 !important;
-}
+/*.widget-profile-header > a > img:hover {*/
+    /*transform: rotate(720deg);*/
+    /*-webkit-transform: rotate(720deg);*/
+    /*-moz-transform: rotate(720deg);*/
+    /*-o-transform: rotate(720deg);*/
+    /*-ms-transform: rotate(720deg);*/
+    /*filter: alpha(opacity=100) !important;*/
+    /*opacity: 1 !important;*/
+/*}*/
 .widget-profile-title {
     text-align: center;
     display: inherit !important;
